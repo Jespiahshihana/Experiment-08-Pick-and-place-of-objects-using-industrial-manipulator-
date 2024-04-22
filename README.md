@@ -99,14 +99,27 @@ and click on the connect icon
 
 
 ### output video and screen shots of pick and place 
+![WhatsApp Image 2024-04-22 at 1 36 16 PM](https://github.com/Jespiahshihana/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144718286/8ccf0f64-b0e7-433c-b0f9-2073bba42568)
+![WhatsApp Image 2024-04-22 at 1 36 17 PM (1)](https://github.com/Jespiahshihana/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144718286/34c43fd4-4c6b-4259-9bc8-ed5a05aeac9f)
+![WhatsApp Image 2024-04-22 at 1 36 17 PM](https://github.com/Jespiahshihana/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144718286/fa6c62f0-ac7f-4499-81d4-44bb3c7ba14e)
+![WhatsApp Image 2024-04-22 at 1 36 18 PM (1)](https://github.com/Jespiahshihana/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144718286/1abb371c-e945-4712-b129-75e99d70e424)
+![WhatsApp Image 2024-04-22 at 1 36 18 PM](https://github.com/Jespiahshihana/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144718286/c1772cb8-d631-47ba-ba46-4f37ac527b85)
+![WhatsApp Image 2024-04-22 at 1 36 19 PM (1)](https://github.com/Jespiahshihana/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144718286/72af930d-0aca-448e-a6b0-33a8a6b72491)
+![WhatsApp Image 2024-04-22 at 1 36 19 PM (2)](https://github.com/Jespiahshihana/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144718286/c7e1b25e-99d1-49c6-8730-1668e09684b9)
+![WhatsApp Image 2024-04-22 at 1 36 19 PM](https://github.com/Jespiahshihana/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144718286/1f1def12-c84f-486a-ac9b-8b6f550ecf85)
+![WhatsApp Image 2024-04-22 at 1 36 20 PM](https://github.com/Jespiahshihana/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144718286/f35c4ad4-85ee-4e85-a3a7-791098698313)
+![WhatsApp Image 2024-04-22 at 1 36 21 PM (1)](https://github.com/Jespiahshihana/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144718286/d85d496f-f341-44eb-a5a0-62e0e5598cf7)
+![WhatsApp Image 2024-04-22 at 1 36 21 PM](https://github.com/Jespiahshihana/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144718286/656a4cc5-d04f-49f6-b868-d901ad24237d)
+![WhatsApp Image 2024-04-22 at 1 36 22 PM](https://github.com/Jespiahshihana/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144718286/d4b7d634-db87-42d7-bac6-cdd57c6782f7)
 
-
+https://drive.google.com/file/d/1WT1pSq1IvwaWbAxrbB--1o8uiTW_EgCw/view?usp=drive_link
 
 
 
 
 
 ### Results: 
+The experiment to pick and place a regular shape using two finger gripper on the conveyor belt has been verifird
 
 
 
