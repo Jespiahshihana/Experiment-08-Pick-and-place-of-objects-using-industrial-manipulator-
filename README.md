@@ -80,24 +80,6 @@ Installation position: floor, ceiling, walls.
 and click on the connect icon 
 
 3. click on the 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ### output video and screen shots of pick and place 
 ![WhatsApp Image 2024-04-22 at 1 36 16 PM](https://github.com/Jespiahshihana/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144718286/8ccf0f64-b0e7-433c-b0f9-2073bba42568)
 ![WhatsApp Image 2024-04-22 at 1 36 17 PM (1)](https://github.com/Jespiahshihana/Experiment-08-Pick-and-place-of-objects-using-industrial-manipulator-/assets/144718286/34c43fd4-4c6b-4259-9bc8-ed5a05aeac9f)
@@ -114,12 +96,8 @@ and click on the connect icon
 
 https://drive.google.com/file/d/1WT1pSq1IvwaWbAxrbB--1o8uiTW_EgCw/view?usp=drive_link
 
-
-
-
-
 ### Results: 
-The experiment to pick and place a regular shape using two finger gripper on the conveyor belt has been verifird
+The experiment to pick and place a regular shape using two finger gripper on the conveyor belt has been verified.
 
 
 
